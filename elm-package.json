@@ -9,6 +9,7 @@
     "exposed-modules": [
         "Dom",
         "Dom.Scroll",
+        "Dom.Size",
         "Dom.LowLevel"
     ],
     "native-modules": true,
