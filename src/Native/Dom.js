@@ -1,4 +1,4 @@
-var _wehlutyk$Native_Dom = function() {
+var _wehlutyk$dom$Native_Dom = function() {
 
 var fakeNode = {
 	getElementById: function() { return null; },
